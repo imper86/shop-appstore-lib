@@ -308,6 +308,7 @@ class Resource
 
         $this->order = $result;
 
+        return $this;
     }
 
     /**
